@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.table_size {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    
+}
+.logo {
+    background-color: rgb(97, 204, 240);
+    height: 100px; 
+    display: flex; 
+    flex-direction: row;  
+    justify-content: center;  
+    align-items: center;
+        /* display: flex;
+        align-items: center;
+        /* justify-content: space-around; не разорался как сделать мегьшн размер */
+}
+        
+        
+.logo img {
+    height: 70px;
+}
+
+.conteiner {
+    /* align-items: flex-end; */
+    /* display: flow-root; */
+    /* justify-content: center; */
+    
+ }
+.color_yellow {
+    background-color: rgb(230, 230, 113);
+}
+.color_green {
+    background-color: rgb(166, 218, 166);
+}
+.color_violet {
+    background-color: rgb(162, 154, 228);
+}  
